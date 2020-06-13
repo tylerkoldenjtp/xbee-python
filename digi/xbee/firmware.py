@@ -277,7 +277,8 @@ SX_HARDWARE_VERSIONS = (HardwareVersion.SX.code,
 
 XBEE3_HARDWARE_VERSIONS = (HardwareVersion.XBEE3.code,
                            HardwareVersion.XBEE3_SMT.code,
-                           HardwareVersion.XBEE3_TH.code)
+                           HardwareVersion.XBEE3_TH.code,
+                           HardwareVersion.CELLULAR_3_CAT1_LTE_VERIZON.code)
 
 SUPPORTED_HARDWARE_VERSIONS = SX_HARDWARE_VERSIONS + XBEE3_HARDWARE_VERSIONS
 
